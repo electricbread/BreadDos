@@ -1,0 +1,11 @@
+c:\users\josh johnson\source\repos\BreadDos\BreadDos\bin\Debug\BreadDos.exe.config
+c:\users\josh johnson\source\repos\BreadDos\BreadDos\bin\Debug\BreadDos.exe
+c:\users\josh johnson\source\repos\BreadDos\BreadDos\bin\Debug\BreadDos.pdb
+c:\users\josh johnson\source\repos\BreadDos\BreadDos\bin\Debug\BreadDos.xml
+c:\users\josh johnson\source\repos\BreadDos\BreadDos\obj\Debug\BreadDos.Form1.resources
+c:\users\josh johnson\source\repos\BreadDos\BreadDos\obj\Debug\BreadDos.Resources.resources
+c:\users\josh johnson\source\repos\BreadDos\BreadDos\obj\Debug\BreadDos.vbproj.GenerateResource.cache
+c:\users\josh johnson\source\repos\BreadDos\BreadDos\obj\Debug\BreadDos.vbproj.CoreCompileInputs.cache
+c:\users\josh johnson\source\repos\BreadDos\BreadDos\obj\Debug\BreadDos.exe
+c:\users\josh johnson\source\repos\BreadDos\BreadDos\obj\Debug\BreadDos.xml
+c:\users\josh johnson\source\repos\BreadDos\BreadDos\obj\Debug\BreadDos.pdb
